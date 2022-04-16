@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T08:54:14.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B7UJIHzeCU0_PXZ8FDnj" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T08:57:17.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9RUmCZ3pXVEeIcpQqq0e" version="17.4.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,17 @@
         </mxCell>
         <mxCell id="Nl6Qnyx7027qB_0owJBx-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Nl6Qnyx7027qB_0owJBx-8">
           <mxGeometry x="45" y="100" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Nl6Qnyx7027qB_0owJBx-37" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;elbow=vertical;jumpSize=10;" edge="1" parent="Nl6Qnyx7027qB_0owJBx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="60" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="230" />
+              <mxPoint x="100" y="230" />
+              <mxPoint x="100" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nl6Qnyx7027qB_0owJBx-9" value="工单系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="110" width="100" height="300" as="geometry" />
